@@ -1,10 +1,7 @@
 #Contas
-app.
 vivo.com.br
 
 #Trabalho
-www8.receita.fazenda.gov.br
-receita.fazenda.
 gov.br
 
 #Mangas e Animes
@@ -68,8 +65,9 @@ downix.org
 #Fotos e Videos
 4chan.org
 e-hentai.org
-chan.sankakucomplex.com
+sankakucomplex.com
 gelbooru.com
+rule34.paheal
 rule34.paheal.net
 rule34hentai.net
 booru.allthefallen.moe
